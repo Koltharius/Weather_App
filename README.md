@@ -8,11 +8,7 @@ Repositorio para el proyecto de la asignatura de IV del curso 18/19
 Aplicación web que mostrará información meteorológica de la ciudad deseada.
 
 ## Servicios y herramienta que se van a usar
-El proyecto será desarrollado utilizando Python y Flask. También voy a usar una base de datos NoSQL para almacenar las distintas ubicaciones de las que se quiere mostrar la información meteorológica. Los datos serán obtenidos realizando llamadas a la api de [OpenWeatherMap](https://openweathermap.org/api).
-
-## Testeo
-
-Voy a utilizar la librería unittest.
+El proyecto será desarrollado utilizando Python y Flask. También voy a usar una base de datos NoSQL para almacenar las distintas ubicaciones de las que se quiere mostrar la información meteorológica. Los datos serán obtenidos realizando llamadas a la api de [OpenWeatherMap](https://openweathermap.org/api). Para testear la aplicación voy a utilizar la librería pytest.
 
 ## Integración continua
 
